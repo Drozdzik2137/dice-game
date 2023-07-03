@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dice-game/static/css/main.cd0e096e.css",
+    "main.js": "/dice-game/static/js/main.fc1aa200.js",
+    "static/js/787.16adadaf.chunk.js": "/dice-game/static/js/787.16adadaf.chunk.js",
+    "index.html": "/dice-game/index.html",
+    "main.cd0e096e.css.map": "/dice-game/static/css/main.cd0e096e.css.map",
+    "main.fc1aa200.js.map": "/dice-game/static/js/main.fc1aa200.js.map",
+    "787.16adadaf.chunk.js.map": "/dice-game/static/js/787.16adadaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd0e096e.css",
+    "static/js/main.fc1aa200.js"
+  ]
+}
