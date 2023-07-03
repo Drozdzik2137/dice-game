@@ -1,0 +1,19 @@
+.best-stats {
+    background-color: #F5F5F5;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.best-game-title, .rolls-record-title  {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.best-time, .rolls-record-time, .best-time-rolls, .rolls-record-rolls{
+    font-style: italic;
+}
